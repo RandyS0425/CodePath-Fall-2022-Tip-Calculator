@@ -17,6 +17,8 @@
 		0026CEF9288254DA0013823D /* Tip_CalculatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0026CEF8288254DA0013823D /* Tip_CalculatorTests.swift */; };
 		0026CF03288254DA0013823D /* Tip_CalculatorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0026CF02288254DA0013823D /* Tip_CalculatorUITests.swift */; };
 		0026CF05288254DA0013823D /* Tip_CalculatorUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0026CF04288254DA0013823D /* Tip_CalculatorUITestsLaunchTests.swift */; };
+		0026CF1228829BCA0013823D /* SwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0026CF1128829BCA0013823D /* SwiftUIView.swift */; };
+		0026CF142882B9950013823D /* GradientView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0026CF132882B9950013823D /* GradientView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +53,8 @@
 		0026CEFE288254DA0013823D /* Tip CalculatorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Tip CalculatorUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0026CF02288254DA0013823D /* Tip_CalculatorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tip_CalculatorUITests.swift; sourceTree = "<group>"; };
 		0026CF04288254DA0013823D /* Tip_CalculatorUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tip_CalculatorUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		0026CF1128829BCA0013823D /* SwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIView.swift; sourceTree = "<group>"; };
+		0026CF132882B9950013823D /* GradientView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,10 +109,12 @@
 				0026CEE0288254D90013823D /* SceneDelegate.swift */,
 				0026CEE2288254D90013823D /* ViewController.swift */,
 				0026CEE4288254D90013823D /* Main.storyboard */,
+				0026CF1128829BCA0013823D /* SwiftUIView.swift */,
 				0026CEEA288254DA0013823D /* Assets.xcassets */,
 				0026CEEC288254DA0013823D /* LaunchScreen.storyboard */,
 				0026CEEF288254DA0013823D /* Info.plist */,
 				0026CEE7288254D90013823D /* Tip_Calculator.xcdatamodeld */,
+				0026CF132882B9950013823D /* GradientView.swift */,
 			);
 			path = "Tip Calculator";
 			sourceTree = "<group>";
@@ -263,8 +269,10 @@
 			files = (
 				0026CEE3288254D90013823D /* ViewController.swift in Sources */,
 				0026CEE9288254D90013823D /* Tip_Calculator.xcdatamodeld in Sources */,
+				0026CF142882B9950013823D /* GradientView.swift in Sources */,
 				0026CEDF288254D90013823D /* AppDelegate.swift in Sources */,
 				0026CEE1288254D90013823D /* SceneDelegate.swift in Sources */,
+				0026CF1228829BCA0013823D /* SwiftUIView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
