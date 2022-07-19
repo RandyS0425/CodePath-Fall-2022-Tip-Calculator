@@ -1,6 +1,6 @@
 Tipper!
 
-** Tipper! ** is a tip calculator application for iOS.
+ Tipper!  is a tip calculator application for iOS.
 
 Submitted by: **Randy S. Barreda**
 
