@@ -1,44 +1,44 @@
-# Tipper! *Name of App Here*
+Tipper!
 
 ** Tipper! ** is a tip calculator application for iOS.
 
-Submitted by: **Your Name Here**
+Submitted by: **Randy S. Barreda**
 
-Time spent: **X** hours spent in total
+Time spent: **10** hours spent in total
 
 ## User Stories
 
 The following **required** functionality is complete:
 
-* [ ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
-* [ ] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
+* [x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+* [x] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
 
 The following **optional** features are implemented:
 
-* [ ] UI animations
+* [x] UI animations
 * [ ] Remembering the bill amount across app restarts (if <10mins)
 * [ ] Using locale-specific currency and currency thousands separators.
-* [ ] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
+* [x] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- [x] List anything else that you can get done to improve the app functionality!
+- [x] Added a "Split bill feature" which allows users to split the bill per person.
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://recordit.co/YXUdBeUgf6' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [RecordIt] (https://recordit.co).
 
 ## Notes
-
-Describe any challenges encountered while building the app.
+This app was the first time I had ever made an IOS app. Least to say I have fallen in love, even though this app is fairly simple. The process as a beginner was a bit harder, some troubles that I encountered while making this app was forgetting to link elements whenever I changed the names, or forgetting to update the labels which showed the total and the tip information. Also something I struggled with was making the views in order to separate  the elemets so that the app looked more neat. Overall this app showed me the basics of how the app making process works!
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2022] [Randy Barreda]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
