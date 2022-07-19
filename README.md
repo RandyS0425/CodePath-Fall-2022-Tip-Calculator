@@ -34,7 +34,7 @@ Here's a walkthrough of implemented user stories:
 GIF created with [RecordIt] (https://recordit.co).
 
 ## Notes
-This app was the first time I had ever made an IOS app. Least to say I have fallen in love, even though this app is fairly simple. The process as a beginner was a bit harder, some troubles that I encountered while making this app was forgetting to link elements whenever I changed the names, or forgetting to update the labels which showed the total and the tip information. Also something I struggled with was making the views in order to separate  the elemets so that the app looked more neat. Overall this app showed me the basics of how the app making process works!
+This app was the first time I had ever made an IOS app. Least to say I have fallen in love, even though this app is fairly simple. The process as a beginner was a bit harder, some troubles that I encountered while making this app was forgetting to link elements whenever I changed the names, or forgetting to update the labels which showed the total and the tip information. Also something I struggled with was making the views in order to separate  the elements so that the app looked more neat. Overall this app showed me the basics of how the app making process works!
 
 ## License
 
