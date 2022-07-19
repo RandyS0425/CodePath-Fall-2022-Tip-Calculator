@@ -10,8 +10,8 @@ import UIKit
 
 class GradientView: UIView {
     
-    @IBInspectable var topColor : UIColor = #colorLiteral(red: 0.01680417731, green: 0.1983509958, blue: 1, alpha: 1)
-    @IBInspectable var bottomColor : UIColor = #colorLiteral(red: 0.4513868093, green: 0.9930960536, blue: 1, alpha: 1)
+    @IBInspectable var topColor : UIColor = #colorLiteral(red: 0.2196078449, green: 0.007843137719, blue: 0.8549019694, alpha: 1)
+    @IBInspectable var bottomColor : UIColor = #colorLiteral(red: 0.4666666687, green: 0.7647058964, blue: 0.2666666806, alpha: 1)
     
     var startPointX : CGFloat = 0
     var startPointY : CGFloat = 0
