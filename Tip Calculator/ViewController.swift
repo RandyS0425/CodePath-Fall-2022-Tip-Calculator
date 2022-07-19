@@ -24,7 +24,7 @@ class ViewController: UIViewController {
    
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        //
         bottomView.layer.cornerRadius = 15
         bottomView.layer.masksToBounds = true
         bottomView.layer.borderWidth = 1.5
@@ -38,7 +38,7 @@ class ViewController: UIViewController {
 
     
     @IBAction func calculateTip(_ sender: Any) {
-        // Get bill amount from text field
+        // Get bill & people amount from text fields
         let bill = Double(billAmountTextFIeld.text!) ?? 0
         let peopleSplit = Double(splitTipPeople.text!) ?? 0
         
@@ -47,7 +47,8 @@ class ViewController: UIViewController {
         let tip = bill * tipPercentages[tipControl.selectedSegmentIndex]
         let total = bill + tip
         let tipSplit = bill / peopleSplit
-        // update Tip Amount Label
+    
+        // update Tip Amount Label & total labels
         tipAmountLabel.text = String(format: "$%.2f", tip)
         totalLabel.text = String(format: "$%.2f", total)
         splitAmount.text = String(format: "$%.2f", tipSplit)
