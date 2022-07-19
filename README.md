@@ -1,4 +1,4 @@
-Tipper!
+*Pre- Work - Tipper!*
 
  Tipper!  is a tip calculator application for iOS.
 
